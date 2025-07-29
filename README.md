@@ -44,28 +44,23 @@ git clone https://github.com/hasanuxaman/TodoSPA.git
 npm install
 ## ▶️ Run the App
 For Vite:
-
 npm run dev
-For Create React App:
-
 npm start
 ## 🌐 Open in Browser
-Vite: http://localhost:5173
-
-CRA: http://localhost:3000
+ http://localhost:5173
+  
+ http://localhost:3000
 
 ## 🔄 Routing Overview
 ### Path	Component	Description
-/	Home.jsx	Shows weather forecast
--
-/todo	Todo.jsx	Task list manager
--
+/Home.jsx	-Shows weather forecast
+
+/todo	Todo.jsx	->Task list manager
 ## 🖼️ Screenshot
 ![App Screenshot](./screenshot.png)
+
 ## 🚀 Deployment Options
 IIS Server
-
-
 
 ## 👤 Author
 Md Hasanuzzaman Rony
