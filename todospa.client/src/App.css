@@ -1,0 +1,28 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    padding-top: 56px; /* Navbar height এর সমান */
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1030;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.highlight-checkbox {
+    background-color: #d1e7dd;
+    border-radius: 4px;
+    padding: 4px;
+    cursor: pointer;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}

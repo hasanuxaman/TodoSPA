@@ -1,0 +1,6 @@
+@TodoSPA.Server_HostAddress = http://localhost:5125
+
+GET {{TodoSPA.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
