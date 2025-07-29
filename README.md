@@ -60,7 +60,7 @@ Path	Component	Description
 /todo	Todo.jsx	Task list manager
 
 ## 🖼️ Screenshot
-<!-- Add a screenshot of your app here --> <!-- ![ToDoSPA Screenshot](./screenshot.png) -->
+![App Screenshot](./screenshot.png)
 ## 🚀 Deployment Options
 IIS Server
 
