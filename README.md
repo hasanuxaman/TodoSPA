@@ -55,10 +55,11 @@ Vite: http://localhost:5173
 CRA: http://localhost:3000
 
 ## 🔄 Routing Overview
-Path	Component	Description
+### Path	Component	Description
 /	Home.jsx	Shows weather forecast
+-
 /todo	Todo.jsx	Task list manager
-
+-
 ## 🖼️ Screenshot
 ![App Screenshot](./screenshot.png)
 ## 🚀 Deployment Options
