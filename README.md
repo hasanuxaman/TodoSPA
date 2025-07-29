@@ -42,7 +42,7 @@ git clone https://github.com/hasanuxaman/TodoSPA.git
 ## 📦 Install Dependencies
 
 npm install
-▶️ Run the App
+## ▶️ Run the App
 For Vite:
 
 npm run dev
